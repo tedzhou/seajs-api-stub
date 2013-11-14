@@ -3,7 +3,9 @@
 为了idea能识别出seajs，使用code autocomplete等功能，挖了个空的坑
 
 ## 使用
+
 idea为例。
+
 0. download 这个文件
 1. project structure
 2. global libraries
